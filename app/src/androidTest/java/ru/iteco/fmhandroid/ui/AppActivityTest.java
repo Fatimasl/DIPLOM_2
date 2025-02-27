@@ -10,8 +10,6 @@ import static androidx.test.espresso.matcher.ViewMatchers.isRoot;
 import static androidx.test.espresso.matcher.ViewMatchers.withId;
 import static org.hamcrest.Matchers.allOf;
 
-import static ru.iteco.fmhandroid.ui.Helper.waitDisplayed;
-
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.ViewParent;
